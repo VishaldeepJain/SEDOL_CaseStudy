@@ -1,0 +1,7 @@
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\bin\Debug\SEDOL_CaseStudy.exe.config
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\bin\Debug\SEDOL_CaseStudy.exe
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\bin\Debug\SEDOL_CaseStudy.pdb
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\obj\Debug\SEDOL_CaseStudy.csprojAssemblyReference.cache
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\obj\Debug\SEDOL_CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\obj\Debug\SEDOL_CaseStudy.exe
+C:\Users\CAPAPPJAINV\source\repos\SEDOL_CaseStudy\SEDOL_CaseStudy\obj\Debug\SEDOL_CaseStudy.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDOL_CaseStudy", "SEDOL_CaseStudy\SEDOL_CaseStudy.csproj", "{C0D41A0F-0A2A-4373-B0E8-0DED58B7B730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSEDOL", "UnitTestSEDOL\UnitTestSEDOL.csproj", "{AF37AA34-558E-4240-9BEB-4239F31698CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D41A0F-0A2A-4373-B0E8-0DED58B7B730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D41A0F-0A2A-4373-B0E8-0DED58B7B730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D41A0F-0A2A-4373-B0E8-0DED58B7B730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D41A0F-0A2A-4373-B0E8-0DED58B7B730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF37AA34-558E-4240-9BEB-4239F31698CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF37AA34-558E-4240-9BEB-4239F31698CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF37AA34-558E-4240-9BEB-4239F31698CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF37AA34-558E-4240-9BEB-4239F31698CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36F2CB4-F737-4CEB-9FFD-8D082C4EC76C}
+	EndGlobalSection
+EndGlobal
